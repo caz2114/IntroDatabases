@@ -7,4 +7,4 @@ COMSW4111 - Introduction to Databases
 2. www2.census.gov/programs-surveys/acs/data/pums/2015/1-Year/csv_hny.zip
 
 ## Data Dictionary
-https://www2.census.gov/programs-surveys/acs/tech_docs/pums/data_dict/PUMSDataDict14.pdf
+https://www2.census.gov/programs-surveys/acs/tech_docs/pums/data_dict/PUMS_Data_Dictionary_2011-2015.pdf
