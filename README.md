@@ -1,6 +1,8 @@
-# Introduction to Databases
+# COMSW4111 - Introduction to Databases
+Course description: The fundamentals of database design and application development using databases: entity-relationship modeling, logical design of relational databases, relational data definition and manipulation languages, SQL, XML, query processing, physical database tuning, transaction processing, security. Programming projects are required.
 
-COMSW4111 - Introduction to Databases
+## Dataset description
+Every year, the United States Census Bureau collects two datasets released to the public. We will be using the personal dataset from NY to collect information such as education.  
 
 ## Datasets are from Link to Data 
 1. www2.census.gov/programs-surveys/acs/data/pums/2015/1-Year/csv_pny.zip
@@ -9,12 +11,11 @@ COMSW4111 - Introduction to Databases
 ## Data Dictionary
 https://www2.census.gov/programs-surveys/acs/tech_docs/pums/data_dict/PUMS_Data_Dictionary_2011-2015.pdf
 
-
-
-## What our Database application is doing(proposal)?
+## Project Proposal?
   We are creating a "mapping people" application which is intended to map people's behaviors and everyday life. We are connecting several aspects of everyday life suhc as job/industry, educational level, and wheather they flush the toilet or not. Connecting this with aspects such as when they arrive to work, what major they had in college, and where they are from we would try to accomplish a borader sense of ***********.
 
 ## Expanation of the project:
-  *plan of how we will expand this project in part 3(otherwise, must do a front-end dev):
+  Since we have a large database in our hands, we are planning to expand our database. Our eventual goal is to have the ability to connect individual people to household data to analyze how household dynamics. If we have no mapping strategy between personal and household data we will continue to expand on personal data.
      i. Figure out how to make a relationship set on Household(?) and connect it to personal somehow(?)
      ii. Think of where people buy their clothes (try to think of a way to link socio-economic status to location or another aspect) 
+
