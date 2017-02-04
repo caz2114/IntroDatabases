@@ -45,7 +45,7 @@ https://www2.census.gov/programs-surveys/acs/tech_docs/pums/data_dict/PUMS_Data_
 5. Major
   1. Major: FOD1P
 6. Job
-  1. __idjob__: 
+  1. __idjob__: kl
   2. Wage: WAGP
   3. Time to arrival to work: JWAP
   4: Time to departure for work: JWDP
