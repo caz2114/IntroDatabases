@@ -30,27 +30,27 @@ https://www2.census.gov/programs-surveys/acs/tech_docs/pums/data_dict/PUMS_Data_
   7. (State Code: ST)
   8. (Education attainment: SCHL(
 2. Disability(NEED ID)
-  i. iddis: CREATE
-  ii. Self-care difficulty: DDRS
-  iii. Hearing difficulty: DEAR
-  iv. Vision difficulty: DEYE
-  v: Independent living difficulty: DOUT
-  vi. Ambulatory difficulty: DPHY
+  1. iddis: CREATE
+  2. Self-care difficulty: DDRS
+  3. Hearing difficulty: DEAR
+  4. Vision difficulty: DEYE
+  5: Independent living difficulty: DOUT
+  6. Ambulatory difficulty: DPHY
 3. Location
-  i. __idstate__: POBP05
-  ii. Locations: POBP05
+  1. __idstate__: POBP05
+  2. Locations: POBP05
 4. Education
-  i. __ided__: SCHL
-  ii. School Degree: SCHL
+  1. __ided__: SCHL
+  2. School Degree: SCHL
 5. Major
-  i. Major: FOD1P
+  1. Major: FOD1P
 6. Job
-  i. idjob: 
-  ii. Wage: WAGP
-  iii. Time to arrival to work: JWAP
-  iv: Time to departure for work: JWDP
+  1. idjob: 
+  2. Wage: WAGP
+  3. Time to arrival to work: JWAP
+  4: Time to departure for work: JWDP
 7. Retirement
-  ii. __Retirement income__: RETP
+  1. __Retirement income__: RETP
   
  
   
