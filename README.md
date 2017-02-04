@@ -19,3 +19,41 @@ https://www2.census.gov/programs-surveys/acs/tech_docs/pums/data_dict/PUMS_Data_
      i. Figure out how to make a relationship set on Household(?) and connect it to personal somehow(?)
      ii. Think of where people buy their clothes (try to think of a way to link socio-economic status to location or another aspect) 
 
+## Data matching
+1. Personal
+  i. __SERIALNO__
+  ii. Gender: SEX
+  iii. Age: AGEP
+  iv: Marital Status: MAR
+  v:  Nativity: NATIVITY
+  (vi) Place of birth: POBP05
+  (vii)  State Code: ST
+  (viii) Education attainment: SCHL
+2. Disability(NEED ID)
+  i. iddis: CREATE
+  ii. Self-care difficulty: DDRS
+  iii. Hearing difficulty: DEAR
+  iv. Vision difficulty: DEYE
+  v: Independent living difficulty: DOUT
+  vi. Ambulatory difficulty: DPHY
+3. Location
+  i. __idstate__: POBP05
+  ii. Locations: POBP05
+4. Education
+  i. __ided__: SCHL
+  ii. School Degree: SCHL
+5. Major
+  i. Major: FOD1P
+6. Job
+  i. idjob: 
+  ii. Wage: WAGP
+  iii. Time to arrival to work: JWAP
+  iv: Time to departure for work: JWDP
+7. Retirement
+  ii. __Retirement income__: RETP
+  
+ 
+  
+  
+  
+  
