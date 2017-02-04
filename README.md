@@ -21,14 +21,14 @@ https://www2.census.gov/programs-surveys/acs/tech_docs/pums/data_dict/PUMS_Data_
 
 ## Data matching
 1. Personal
-  i. __SERIALNO__
-  ii. Gender: SEX
-  iii. Age: AGEP
-  iv: Marital Status: MAR
-  v:  Nativity: NATIVITY
-  (vi) Place of birth: POBP05
-  (vii)  State Code: ST
-  (viii) Education attainment: SCHL
+..1. __SERIALNO__
+..2. Gender: SEX
+..3. Age: AGEP
+..4. Marital Status: MAR
+..5. Nativity: NATIVITY
+..6. (Place of birth: POBP05)
+..7. (State Code: ST)
+..8. (Education attainment: SCHL(
 2. Disability(NEED ID)
   i. iddis: CREATE
   ii. Self-care difficulty: DDRS
