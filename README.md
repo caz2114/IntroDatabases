@@ -22,8 +22,11 @@ In the recent election, we have learned that America is heavily divided by locat
 We will do the web design option.
 
 ## ER Diagram
-![alt tag](https://github.com/caz2114/IntroDatabases/blob/master/erdplus-diagram%20(1).png)
+![alt tag](https://github.com/caz2114/IntroDatabases/blob/master/Diagrams/Capture3.JPG)
 
+## SQL Schema
+![alt tag](https://github.com/caz2114/IntroDatabases/blob/master/Diagrams/Capture.JPG)
+![alt tag](https://github.com/caz2114/IntroDatabases/blob/master/Diagrams/Capture1.JPG)
 
 ## Data matching(Will be updated to match)
 1. Personal
