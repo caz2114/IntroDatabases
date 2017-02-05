@@ -21,8 +21,7 @@ In the recent election, we have learned that America is heavily divided by locat
 
 We will do the web design option.
 
-
- ## ER Diagram
+## ER Diagram
 ![alt tag](https://github.com/caz2114/IntroDatabases/blob/master/Diagrams/Capture3.JPG)
 
 ## SQL Schema
