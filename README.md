@@ -22,45 +22,13 @@ In the recent election, we have learned that America is heavily divided by locat
 We will do the web design option.
 
 ## ER Diagram
+Shown at the end
 ![alt tag](https://github.com/caz2114/IntroDatabases/blob/master/Diagrams/Capture3.JPG)
 
 ## SQL Schema
 ![alt tag](https://github.com/caz2114/IntroDatabases/blob/master/Diagrams/Capture.JPG)
 ![alt tag](https://github.com/caz2114/IntroDatabases/blob/master/Diagrams/Capture1.JPG)
 
-## Data matching(Will be updated to match)
-1. Personal
-  1. __SERIALNO__
-  2. Gender: SEX
-  3. Age: AGEP
-  4. Marital Status: MAR
-  5. Nativity: NATIVITY
-  6. (Place of birth: POBP05)
-  7. (State Code: ST)
-  8. (Education attainment: SCHL(
-2. Disability(NEED ID)
-  1. iddis: CREATE
-  2. Self-care difficulty: DDRS
-  3. Hearing difficulty: DEAR
-  4. Vision difficulty: DEYE
-  5: Independent living difficulty: DOUT
-  6. Ambulatory difficulty: DPHY
-3. Location
-  1. __idstate__: POBP05
-  2. Locations: POBP05
-4. Education
-  1. __ided__: SCHL
-  2. School Degree: SCHL
-5. Major
-  1. Major: FOD1P
-6. Job
-  1. __idjob__: kl
-  2. Wage: WAGP
-  3. Time to arrival to work: JWAP
-  4: Time to departure for work: JWDP
-7. Retirement
-  1. __Retirement income__: RETP
-  
  
   
   
