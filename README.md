@@ -1,14 +1,18 @@
 # COMSW4111 - Introduction to Databases
 Course description: The fundamentals of database design and application development using databases: entity-relationship modeling, logical design of relational databases, relational data definition and manipulation languages, SQL, XML, query processing, physical database tuning, transaction processing, security. Programming projects are required.
 
+## Project Contributors
+Names: Amir Lavi, Catherine Zhao
+Uni: al3526, caz2114
+Professor Alex Biliris
+
 ## Dataset description
-Every year, the United States Census Bureau collects two datasets released to the public. We will be using the personal dataset from NY to collect information such as education.  
+Every year, the United States Census Bureau collects two datasets released to the public. We will be using the personal dataset from USA to collect information about education, occupation, disabilities, insurance, and location.  
 
-## Datasets are from Link to Data 
-1. www2.census.gov/programs-surveys/acs/data/pums/2015/1-Year/csv_pus.zip
-2. www2.census.gov/programs-surveys/acs/data/pums/2015/1-Year/csv_hus.zip
+### Datasets are from Link to Data 
+www2.census.gov/programs-surveys/acs/data/pums/2015/1-Year/csv_pus.zip
 
-## Data Dictionary
+### Data Dictionary
 https://www2.census.gov/programs-surveys/acs/tech_docs/pums/data_dict/PUMS_Data_Dictionary_2011-2015.pdf
 
 ## Project Proposal?
@@ -16,7 +20,7 @@ In the recent election, we have learned that America is heavily divided by locat
 
 We will do the web design option.
 
-## Data matching
+## Data matching(Will be updated to match)
 1. Personal
   1. __SERIALNO__
   2. Gender: SEX
