@@ -3,6 +3,7 @@ Course description: The fundamentals of database design and application developm
 
 ## Project Contributors
 Names: Amir Lavi, Catherine Zhao
+
 Uni: al3526, caz2114
 
 Professor Alex Biliris
