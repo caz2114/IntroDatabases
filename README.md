@@ -12,13 +12,10 @@ Every year, the United States Census Bureau collects two datasets released to th
 https://www2.census.gov/programs-surveys/acs/tech_docs/pums/data_dict/PUMS_Data_Dictionary_2011-2015.pdf
 
 ## Project Proposal?
-  We are creating a "mapping people" application which is intended to map people's behaviors and everyday life. We are connecting several aspects of everyday life suhc as job/industry, educational level, and wheather they flush the toilet or not. Connecting this with aspects such as when they arrive to work, what major they had in college, and where they are from we would try to accomplish a borader sense of ***********.
+  In the recent election, we have learned that America is heavily divided by location and income. Thus in this project, we wanted create a database that will view individual Americans. We focuesed on how does your location/education/diability, affect your job? By using 2015 US population data from United States Census Bureau, we are able to create a relationship that demostrates a person's life in America. We hope to use this application to see how different aspect of your life affect their future for a career or retirement. How many people are in a field they majored in. Moreover, we aspire to determine how much minorities(such as disabilty, or ethnic) are affected compared to the majority. 
 
-## Expanation of the project:
-  Since we have a large database in our hands, we are planning to expand our database. Our eventual goal is to have the ability to connect individual people to household data to analyze how household dynamics. If we have no mapping strategy between personal and household data we will continue to expand on personal data.
-     i. Figure out how to make a relationship set on Household(?) and connect it to personal somehow(?)
-     ii. Think of where people buy their clothes (try to think of a way to link socio-economic status to location or another aspect) 
-
+## Contingency Plan
+  Our contingency plan is as followed
 ## Data matching
 1. Personal
   1. __SERIALNO__
