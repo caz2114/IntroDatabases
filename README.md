@@ -10,6 +10,7 @@ Professor Alex Biliris
 
 ## Dataset descriptionkjbgk
 Every year, the United States Census Bureau collects two datasets released to the public. We will be using the personal dataset from USA to collect information about education, occupation, disabilities, insurance, and location.  
+
 __Datasets are from Link to Data__: www2.census.gov/programs-surveys/acs/data/pums/2015/1-Year/csv_pus.zip
 
 __Data Dictionary__: https://www2.census.gov/programs-surveys/acs/tech_docs/pums/data_dict/PUMS_Data_Dictionary_2011-2015.pdf
